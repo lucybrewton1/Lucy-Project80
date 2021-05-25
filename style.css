@@ -1,0 +1,19 @@
+
+body {
+    text-align: center;
+}
+input {
+    margin: 10px;
+}
+#list_of_names_horizontal {
+    display: none;
+}
+#list_of_names_vertical {
+    display: none;
+}
+#list_of_names_sorted {
+    display: none;
+}
+#button_sort {
+    display: none;
+}
